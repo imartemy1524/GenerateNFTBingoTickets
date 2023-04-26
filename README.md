@@ -1,4 +1,4 @@
-#Generate Bingo NFT tickets 
+# Generate Bingo NFT tickets 
 
 ## How to install dependencies
 - On windows: 
