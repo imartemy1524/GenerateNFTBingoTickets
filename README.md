@@ -4,13 +4,14 @@
 - On windows: 
     
     Install *python* (for example from [here](https://www.python.org/downloads/release/python-3113/))
+    
     Run command `python -m pip install -r requirements.txt` (from current folder)
 - On linux/Mac
      
     `python3 -m pip install -r requirements.txt`
 ## How to configure  
 
-Edit file [tools.py](tools.py) with some text editor (for example notepad++) and configure all needed variables
+Edit file [config.py](config.py) with some text editor (for example notepad++) and configure all needed variables
  
 ### For example: 
 
